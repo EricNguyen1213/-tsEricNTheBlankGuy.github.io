@@ -1,0 +1,25 @@
+{
+  "name": "myfirstwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-script index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsEricNTheBlankGuy/-tsEricNTheBlankGuy.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsEricNTheBlankGuy/-tsEricNTheBlankGuy.github.io/issues"
+  },
+  "homepage": "https://github.com/ItsEricNTheBlankGuy/-tsEricNTheBlankGuy.github.io#readme",
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
